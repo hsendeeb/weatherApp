@@ -1,0 +1,14 @@
+body{
+    background-image: url("images/background.jpg");
+    background-size: 100vw 100lh;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+;
+}
+.emoji{
+    margin: 0;
+    
+    font-size: 50px;
+    text-align: center;
+}
